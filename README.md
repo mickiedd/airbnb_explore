@@ -1,9 +1,9 @@
 # airbnb_explore
 
 ### Libraries Used In The Notebook
-- pandas as pd
-- numpy as np
-- matplotlib.pyplot as plt
+- pandas
+- numpy
+- matplotlib.pyplot
 
 ### Motivation
 - The motivation for this notebook is try to extract the data from AirBnb, and then try to understand the relationship between price, and date.
